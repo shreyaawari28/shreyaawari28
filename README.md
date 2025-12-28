@@ -1,8 +1,8 @@
 # Hi, I'm Shreya 👋
 
-Engineering student focused on **full-stack web development**, currently pursuing the **MERN stack** while maintaining a strong foundation in **core programming languages and system fundamentals**.
+Engineering student currently **focused on frontend web development** and actively working toward becoming a **full-stack developer**.
 
-I am actively building practical projects and strengthening problem-solving skills alongside modern web development.
+I am building strong fundamentals in web technologies while gradually expanding into backend development and system concepts through hands-on projects.
 
 ---
 
@@ -21,7 +21,7 @@ I am actively building practical projects and strengthening problem-solving skil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" />
 
-  <!-- Backend -->
+  <!-- Backend (Learning) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" title="Express.js" />
 
@@ -40,12 +40,11 @@ I am actively building practical projects and strengthening problem-solving skil
 
 ## 🚀 Current Focus
 
-- MERN stack development (MongoDB, Express, React, Node.js)
-- Full-stack application architecture
-- REST API design and backend logic
-- SQL & NoSQL database design
-- Strengthening DSA and core programming concepts
-- Writing clean, readable, and maintainable code
+- Frontend development using HTML, CSS, JavaScript, and React
+- Building responsive and clean UI components
+- Understanding how frontend communicates with backend APIs
+- Learning backend development with Node.js and Express
+- Gradually moving toward full-stack application development
 
 ---
 
